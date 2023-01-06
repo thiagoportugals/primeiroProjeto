@@ -1,1 +1,3 @@
-Este é o meu primeiro arquivo para versão
+Este é o meu primeiro arquivo para versão.
+
+Atualizando a primeira versão do meu código.
